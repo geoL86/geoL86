@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<hr>
+<p align="center">
+  <i>Take a look at my repositories and let's get in touch!</i>
+
+<p align="center">
+<a href= "https://www.linkedin.com/in/prytuliak-l/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+</p>
+
+<p  align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=sarslanoglu" alt="visitor badge"/>       
+</p>
+</p>
